@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CameraPeople</string>
+    <string name="button_label">start</string>
+
 </resources>
